@@ -179,7 +179,7 @@ params:
   # Experience
   experience:
     enable: true
-    title: "Stage;"
+    title: "Stage"
     items:
      
       - company: "Ehpad de Montier-en-Der"
@@ -200,8 +200,8 @@ params:
           content: |
               Laissez moi le trouver déjà
 
-      - company: "Encore moins"
-        companyUrl: "Stage de deuxième année de BTS SIO"
+      - company: "Stage de deuxième année de BTS SIO"
+        companyUrl: "https://example.com"
         jobs:
         - name: "Product Designer"
           date: "Janvier 2027 - Février 2027"
@@ -260,7 +260,7 @@ params:
   #Contact
   contact:
     enable: true
-    # title: "Custom Name"
+    title: "Mes contacts"
     content: Voici mon adresse si vous voulez me contacter, j'essaierai de répondre le plus tôt possible.
     btnName: Mon adresse e-mail
     btnLink: mailto:camille.sehy@gmail.com
