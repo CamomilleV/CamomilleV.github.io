@@ -255,6 +255,7 @@ params:
         badges: 
           - "Scratch"
           - "Python"
+          
      - title: Journée Portes Ouvertes
         content: Depuis ma rentrée dans le domaine informatique, je n'en ai raté aucune.
         image: /images/CDG.png
