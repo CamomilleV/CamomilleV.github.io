@@ -133,10 +133,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    intro: "Bonjour, je suis:"
+    title: "Camille."
+    subtitle: "Etudiante en BTS SIO."
+    content: "Etudie dans le domaine de l'informatique depuis 3 ans, j'aime en apprendre davantage sur les infrastructures réseaux et comment les manipuler."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -160,22 +160,21 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "à propos de moi"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Je suis étudiante en BTS SIO option SISR avec un bac général Mathématique et NSI. Je sais programmer dans différents langages.
+      Je suis sensibilisée à la cybersécurité et à la protections des données.
+      J'apprends en optionà manipuler des machines virtuelles, avec comme OS Linux & Windows, avec Oracle.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Voici différents langages parmi lesquels j'ai un minimum d'exprerience: "
       items:
         - "HTML"
         - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "C#"
+        - "Python"
+        - "PhP"
 
   # Experience
   experience:
@@ -263,12 +262,12 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Baccalauréat série Géneral"
         school:
-          name: "University of California, Berkeley"
+          name: "Lycée Charles de Gaulle, Chaumont"
           url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+        date: "2022 - 2025"
+        GPA: "10.01 sur 20"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit.
