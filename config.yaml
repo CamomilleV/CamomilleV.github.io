@@ -160,7 +160,7 @@ params:
   # About
   about:
     enable: true
-    title: "à propos de moi"
+    title: "A propos de moi"
     image: "/images/me.png"
     content: |-
       Je suis étudiante en BTS SIO option SISR avec un bac général Mathématique et NSI. Je sais programmer dans différents langages.
