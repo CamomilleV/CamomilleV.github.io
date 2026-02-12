@@ -150,7 +150,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/CamomilleV
         - icon: fab fa-x-twitter
           url: https://example.com
       customIcons:
@@ -165,7 +165,8 @@ params:
     content: |-
       Je suis étudiante en BTS SIO option SISR avec un bac général Mathématique et NSI. Je sais programmer dans différents langages.
       Je suis sensibilisée à la cybersécurité et à la protections des données.
-      J'apprends en optionà manipuler des machines virtuelles, avec comme OS Linux & Windows, avec Oracle.
+      Je connais les bases de la manipulation de base de données.
+      J'apprends en option à manipuler des machines virtuelles ayant comme OS Linux & Windows avec Oracle.
     skills:
       enable: true
       title: "Voici différents langages parmi lesquels j'ai un minimum d'exprerience: "
@@ -198,7 +199,7 @@ params:
         - name: "Stage de première année de BTS SIO"
           date: "Mai 2026 - Juin 2026"
           content: |
-              Lorem ipsum dolor sit amet, Mairie?
+              Lorem ipsum dolor sit amet, Mairie de Nogent peut être, je suis en attente de réponse.
 
       - company: "Dans longtemps."
         companyUrl: "https://example.com"
@@ -206,7 +207,7 @@ params:
         - name: "Stage de deuxième année de BTS SIO"
           date: "Janvier 2027 - Février 2027"
           content: |
-              Lorem ipsum dolor sit amet
+              Lorem ipsum dolor sit amet, Je réessaie Marle l'année prochaine.
 
   # Education
   education:
@@ -250,7 +251,7 @@ params:
           - "Python"
 
       - title: Journée de la NSI
-        content: Créer des activités pour une journée. Sensibilisé à l'informatiques et à la spécialité NSI aux collégiens. N'a pas vu le jour.
+        content: Créer des activités pour une journée. Sensibilisé à l'informatiques et à la spécialité NSI aux collégiens. N'a pas vu le jour quand j'étais encore lycéenne.
         image: /images/Python.jpeg
         badges: 
           - "Scratch"
