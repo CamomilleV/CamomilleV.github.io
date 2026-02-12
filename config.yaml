@@ -161,7 +161,7 @@ params:
   about:
     enable: true
     title: "A propos de moi"
-    image: "/image/rouge.jpeg"
+    image: "/images/rouge.jpeg"
     content: |-
       Je suis étudiante en BTS SIO option SISR avec un bac général Mathématique et NSI. Je sais programmer dans différents langages.
       Je suis sensibilisée à la cybersécurité et à la protections des données.
