@@ -179,7 +179,7 @@ params:
   # Experience
   experience:
     enable: true
-    title: "Stage"
+    title: "Stages"
     items:
      
       - company: "Ehpad de Montier-en-Der"
@@ -197,14 +197,19 @@ params:
         jobs:
         - name: "Stage de première année de BTS SIO"
           date: "Mai 2026 - Juin 2026"
+            info:
+              content: Stage d'observation de 5 semaines
           content: |
-              Lorem ipsum dolor sit amet
+              Lorem ipsum dolor sit amet, Mairie?
 
       - company: "Dans longtemps."
         companyUrl: "https://example.com"
         jobs:
         - name: "Stage de deuxième année de BTS SIO"
           date: "Janvier 2027 - Février 2027"
+          
+            info:
+              content: Stage d'observation de 5 semaines
           content: |
               Lorem ipsum dolor sit amet
 
@@ -217,7 +222,7 @@ params:
       - title: "Baccalauréat série Géneral"
         school:
           name: "Lycée Charles de Gaulle, Chaumont"
-          url: "https://example.org"
+          url: "https://www.lyceecdg52.com/"
         date: "2024 - 2025"
         content: |-
           Spécialités:
@@ -225,25 +230,23 @@ params:
             - NSI
             - Physique Chimie, Abandon en Terminale
             - Section Européenne, Anglais. 
-      - title: "SecNumAcademie"
+      - title: "SecNum Academie"
         school:
-          name: "Massachusetts Institute of Technology"
+          name: "Formation"
         date: "2026"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      - title: "Mooc CNIL"
+          Ma permis de m'informer et de m'entraîner sur les risques liées à internet. Notamment la cybersécurité.
+      - title: "L'atelier RGPD"
         school:
-          name: "Massachusetts Institute of Technology"
+          name: "Formation"
         date: "2025"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Ma permis de m'informer et de m'entraîner sur les risques liées à internet. Notamment la protéction des données.
 
   # projects
   projects:
     enable: true
-    # title: "Custom Name"
+    title: "Projets/Evenements"
     items:
       - title: Nuit du Code
         content: Créer un jeu sur python, en 6 heures, en groupe de 3 ou 2, avec pygame.
@@ -254,6 +257,12 @@ params:
       - title: Journée de la NSI
         content: Créer des activités pour une journée. Sensibilisé à l'informatiques et à la spécialité NSI aux collégiens. N'a pas vu le jour.
         image: /images/Python.jpeg
+        badges: 
+          - "Scratch"
+          - "Python"
+     - title: Journée Portes Ouvertes
+        content: Depuis ma rentrée dans le domaine informatique, je n'en ai raté aucune.
+        image: /images/CDG.png
         badges: 
           - "Scratch"
           - "Python"
@@ -281,10 +290,8 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com
-      linkedin: https://linkedin.com
       twitter: https://twitter.com
       instagram: https://instagram.com
-      facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
