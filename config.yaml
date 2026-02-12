@@ -197,8 +197,6 @@ params:
         jobs:
         - name: "Stage de première année de BTS SIO"
           date: "Mai 2026 - Juin 2026"
-            info:
-              content: Stage d'observation de 5 semaines
           content: |
               Lorem ipsum dolor sit amet, Mairie?
 
@@ -207,9 +205,6 @@ params:
         jobs:
         - name: "Stage de deuxième année de BTS SIO"
           date: "Janvier 2027 - Février 2027"
-          
-            info:
-              content: Stage d'observation de 5 semaines
           content: |
               Lorem ipsum dolor sit amet
 
