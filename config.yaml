@@ -198,7 +198,7 @@ params:
         - name: "Stage de première année de BTS SIO"
           date: "Mai 2026 - Juin 2026"
           content: |
-          	Laissez moi le trouver svp
+              Laissez moi le trouver déjà
 
       - company: "Encore moins"
         companyUrl: "Stage de deuxième année de BTS SIO"
